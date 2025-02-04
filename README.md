@@ -7,8 +7,8 @@ This repository contains the progress and work done of my Java Training journey.
 
 ### Date: 19-01-2025
 - Completed all the Assignment problems of Google Classroom's 1st 
-Assignment titled "Few Problems to start with.pdf" in the following 
-[Github Repository](https://github.com/Aryan-tripathi-2004/Bridgelabz_2115000688/tree/feature/19-01-2025).
+Assignment titled "Few Problems to start with.pdf" in this
+[branch](https://github.com/Aryan-tripathi-2004/Bridgelabz_2115000688/tree/feature/19-01-2025).
 
 ### Date: 20-01-2025
 - Getting Started With Java
@@ -68,9 +68,6 @@ Assignment titled "Few Problems to start with.pdf" in the following
 ### Date: 24-01-2025
 - Successfully completed all the Level-1 and Level-2 practice problems of the Assignment 4 named 'Arrays Practices' and push [here](https://github.com/Aryan-tripathi-2004/Bridgelabz_2115000688/tree/feature/24-01-2025) in Github.
 - Enrich my knowledge by learning about more Escape sequences (other than '\n') and used them as practice in assignment questions.
-
-### Date: 26-01-2025
-- Holiday (Just little revision of all completed topics)
 
 ### Date: 27-01-2025
 - Further Revision of all completed topics and give my 'Review Assessment'
