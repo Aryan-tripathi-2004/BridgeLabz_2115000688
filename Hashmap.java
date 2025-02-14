@@ -15,7 +15,7 @@ class Hashmap<K, V> {
     private Entry<K, V>[] buckets;
 
     @SuppressWarnings("unchecked")
-    public MyHashMap() {
+    public Hashmap() {
         buckets = new Entry[SIZE]; 
     }
 
@@ -95,7 +95,7 @@ class Hashmap<K, V> {
     }
 
     public static void main(String[] args) {
-        MyHashMap<String, Integer> map = new MyHashMap<>();
+        Hashmap<String, Integer> map = new Hashmap<>();
         map.put("One", 1);
         map.put("Two", 2);
         map.put("Three", 3);
