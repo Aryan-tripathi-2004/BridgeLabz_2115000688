@@ -136,4 +136,75 @@ Assignment titled `"Few Problems to start with.pdf"` in this
 	- 'instanceOf' operator
 - Successfully completed all practice problems of `'Java this, static, final key words and instanceof operator'` Lab Practice Assignment and push [here](https://github.com/Aryan-tripathi-2004/Bridgelabz_2115000688/tree/feature/03-02-2025) in Github Repo.
 
+### Date: 04-02-2025
+- Covered topics from Object Modeling Documentation
+	- Classes vs. Objects in Java
+	- Classes vs. Objects in a Project
+	- Association, Aggregation and Composition
+- Completed half of the problems of the 'Object Modeling' Assignment.
+
+### Date: 05-02-2025
+- Deep-dive more about the Association, Aggregation and Composition
+- Go through documenation of Object Oriented Design Principles
+	- Class Diagram
+	- Object Diagram
+	- Sequence Diagram
+- Completed all practice problems of `'Object Modeling'` Assignment and push in this [branch](https://github.com/Aryan-tripathi-2004/Bridgelabz_2115000688/tree/feature/05-02-2025) in Github Repo.
+
+### Date: 06-02-2025
+- Go through the documentation of Inheritance
+	- Inheritance and its Types
+	- Key Features of Inheritance
+	- Override Annotation
+	- Constructor Inheritance
+	- Method Overriding
+	- Polymorphism and Inheritance
+	- Access Modifiers and Inheritance
+
+### Date: 07-02-2025
+- Further Revision of already completed topics.
+- Go deep on some new topics:
+	- Memory Areas in Java
+	- CharSequence Interface and its implemented Classes
+		- String
+		- StringBuffer
+		- StringBuilder
+		- StringTokenizer
+	- String Pool
+	- Abstraction & Interface
+	- How to Achieve Multiple Inheritance
+- Completed all the practice problems of `'Inheritance'` Assignment and pushed solutions in given [branch](https://github.com/Aryan-tripathi-2004/Bridgelabz_2115000688/tree/feature/07-02-2025) in Github Repo.
+
+### Date: 09-02-2025
+- Learn more about Encapsulation, Code Reusablity, Data hiding and Maintenance.
+- Learn about all types of Polymorphism and its use cases.
+
+### Date: 10-02-2025
+- Learn about Abstract classes and Interfaces deeply
+- Typecasting object in Interface
+- Completed all the practice problems of Assignment named `'Submission of Encapsulation, Polymorphism, Interface and Abstract Class'` and pushed solutions in given [branch](https://github.com/Aryan-tripathi-2004/Bridgelabz_2115000688/tree/feature/10-02-2025) in Github Repo.
+
+### Date: 11-02-2025
+- Gone through the Documentation of Linked List
+	- Types of Data Structures and their key features
+	- What is Linked List?
+	- Types of Linked List
+	- Advantages and Disadvantages of Linked List
+	- Implementation of Linked List in Java
+
+- Completed rest of the practice problems of `'Linked List'` Assignment and pushed solutions in given [branch](https://github.com/Aryan-tripathi-2004/Bridgelabz_2115000688/tree/feature/11-02-2025) in Github Repo.
+
+### Date: 12-02-2025
+- Done a quick revision.
+- Deep-Dive in some topics
+	- Thread Safety
+	- 'tail' compulsion in Linked List
+	- Alternative approach of 1 question named "Social Media" using multiple Linked List
+- Learn Basic about Stacks
+
+### Date: 13-02-2025
+- Gone through the Documentation of Stacks, Queues, HashMap and Hashing Function
+	
+- Solved all the practice problems successfully of `'Stacks, Queues, HashMap and Hashing Function'` Assignment and pushed [here](https://github.com/Aryan-tripathi-2004/Bridgelabz_2115000688/tree/feature/13-02-2025) in Github Repo.
+
 
